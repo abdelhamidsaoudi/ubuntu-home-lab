@@ -7,7 +7,7 @@ Isolated Linux and home-network lab on an Ubuntu Server VM (Parallels, Apple Sil
 |---|---|
 | Host | MacBook Air, Apple Silicon |
 | Hypervisor | Parallels |
-| Guest OS | Ubuntu Server 26.10 |
+| Guest OS | Ubuntu Server 26.04.1 LTS |
 | Kernel | 7.0.0-42-generic |
 | Architecture | aarch64 (ARM64), same as the host chip |
 
